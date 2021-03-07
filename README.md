@@ -1,5 +1,4 @@
-# horiseon-digital-marketing
-Horiseon Digital Marketing
+# Horiseon Digital Marketing
 This project is the refactoring of  for "HoriSEOn" marketing agency 's existing website to improve its accessibility, organize its semantic structure in html, and consolidate properties in css.
 This project consisted on three stages:
     1. Adding accessibility atributes to the head element (title, description, keywords) and alternative text to all images.
